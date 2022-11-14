@@ -16,12 +16,12 @@
     padding-top: 180px;
 }
 .banner-text h1{
- font-size:130px;
+ font-size:120px;
  font-family: 'Kaushan Script', cursive;
 
 }
 .banner-text p{
-    font-size:20px;
+    font-size:60px;
     font-style:italic
     
 }
@@ -142,7 +142,7 @@ border-bottom-right-radius: 35px;
     margin:auto;
 }
 .features-img img{
-    width:70%;
+    width:40%;
     border-radius: 10px;
 }
 .features h1{
