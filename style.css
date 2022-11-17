@@ -4,7 +4,7 @@
     font-family: 'Grape Nuts', cursive;
 }
 #banner{
-    background:  linear-gradient(rgba(0,0,0,0.5),#009688), url(zdjecia/wp2922405-bmw-wallpaper-1920x1080.jpg);
+    background: url(zdjecia/header.jpg);
     background-size:cover;
     background-position: center;
     height:100vh
@@ -12,11 +12,11 @@
 
 .banner-text{
     text-align: center;
-    color: #fff;
-    padding-top: 180px;
+    color: rgb(1, 0, 2);
+    padding-top: 10px;
 }
 .banner-text h1{
- font-size:120px;
+ font-size:100px;
  font-family: 'Kaushan Script', cursive;
 
 }
